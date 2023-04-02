@@ -14,7 +14,6 @@ public class FibonacciSorusu {
         fibonacci(sayi);
 
     }
-
     private static void fibonacci(int sayi) {
         ArrayList<Integer> fibo=new ArrayList<>();
         fibo.add(1);
